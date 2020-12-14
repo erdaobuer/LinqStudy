@@ -1,0 +1,7 @@
+E:\VS_WrokSpace\C#\Linq\LinqStudy\LinqStudy\bin\Debug\LinqStudy.exe.config
+E:\VS_WrokSpace\C#\Linq\LinqStudy\LinqStudy\bin\Debug\LinqStudy.exe
+E:\VS_WrokSpace\C#\Linq\LinqStudy\LinqStudy\bin\Debug\LinqStudy.pdb
+E:\VS_WrokSpace\C#\Linq\LinqStudy\LinqStudy\obj\Debug\LinqStudy.csprojAssemblyReference.cache
+E:\VS_WrokSpace\C#\Linq\LinqStudy\LinqStudy\obj\Debug\LinqStudy.csproj.CoreCompileInputs.cache
+E:\VS_WrokSpace\C#\Linq\LinqStudy\LinqStudy\obj\Debug\LinqStudy.exe
+E:\VS_WrokSpace\C#\Linq\LinqStudy\LinqStudy\obj\Debug\LinqStudy.pdb
